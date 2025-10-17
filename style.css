@@ -83,3 +83,8 @@ footer {
     text-align: center;
     padding: 1rem;
 }
+
+.bildegalleri img {
+    width: 300px;
+    height: auto;
+}
