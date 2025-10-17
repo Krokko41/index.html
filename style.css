@@ -4,6 +4,15 @@ body, h1, h2, p, button {
     font-family: 'Segoe UI', Arial, sans-serif;
 }
 
+img {
+    max-width: 300px; /* maks bredde */
+    width: 100%;      /* tilpasser seg container */
+    height: auto;     /* behold proporsjonene */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    margin-top: 1rem;
+}
+
 body {
     background: #f4f6f8;
     color: #333;
