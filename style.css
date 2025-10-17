@@ -23,7 +23,6 @@ header {
 
 /* Hovedinnhold */
 main {
-    flex: 1;
     padding: 1rem;
     max-width: 800px;
     margin: 0 auto;
